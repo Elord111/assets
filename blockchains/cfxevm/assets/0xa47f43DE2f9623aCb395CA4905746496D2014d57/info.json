@@ -1,7 +1,7 @@
 {
     "name": "Ethereum",
     "symbol": "ETH",
-    "type": "CFXEVM",
+    "type": "CONFLUX",
     "decimals": 18,
     "description": "Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.",
     "website": "https://ethereum.org/",
@@ -15,8 +15,8 @@
             "url": "https://github.com/ethereum/ethereum-org-website"
         },
         {
-            "name": "twitter",
-            "url": "https://twitter.com/ethdotorg"
+            "name": "x",
+            "url": "https://x.com/ethdotorg"
         },
         {
             "name": "youtube",
